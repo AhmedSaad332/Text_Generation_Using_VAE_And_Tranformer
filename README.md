@@ -58,8 +58,7 @@ The goal of the project is to explore generative language models and understand 
 ## GUI Access
 
 GUI for interacting with the model:  
-[Link]
-
+https://huggingface.co/spaces/ahmed3746887278237832/TextGeneration_Using_VAE
 ---
 
 ## Team Members
