@@ -69,14 +69,6 @@ https://huggingface.co/spaces/ahmed3746887278237832/TextGeneration_Using_VAE
 
 ---
 
-## Acknowledgments
-
-Special thanks to:
-- Mentor: Eng. Hossam Fares  
-- Supervisor: Dr. Amr Nagy  
-
----
-
 ## Future Improvements
 
 - Improve text coherence with larger datasets
